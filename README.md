@@ -1,9 +1,9 @@
 # arduino-dron
 
-#Software Tasks:
+## Software Tasks:
 
 
-#Drone materials used:
+## Drone materials used:
 Arduino UNO
 
 Leds
@@ -44,5 +44,5 @@ https://www.amazon.es/Kinstecks-Conectores-Conector-terminales-Aislamiento/dp/B0
 Interruptor 20A:
 https://www.amazon.es/AERZETIX-Interruptor-conmutador-basculantes-OFF/dp/B01B4D5862
 
-#Materials assembly: 
+## Materials assembly: 
 
