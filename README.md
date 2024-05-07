@@ -7,6 +7,8 @@ Waiting for the packages with the material to arrive.
 
 
 ## Drone materials used:
+BMI323 ????
+
 Arduino UNO
 
 Leds
