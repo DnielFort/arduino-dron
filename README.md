@@ -1,4 +1,5 @@
 Development in progress 🛠️💻🔄
+Waiting for the packages with the material to arrive. 
 
 # arduino-dron
 
